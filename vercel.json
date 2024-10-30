@@ -17,7 +17,7 @@
     "env": {
         "APP_ENV": "production",
         "APP_DEBUG": "true",
-        "APP_URL": "https://blank-teals.vercel.app",
+        "APP_URL": "https://blank-ashy.vercel.app",
         "APP_KEY": "base64:W3fEave8M9XZgq+w6aPPKRx7BXP2yvDBGdVSOOheTYM=",
 
         "APP_CONFIG_CACHE": "/tmp/config.php",
